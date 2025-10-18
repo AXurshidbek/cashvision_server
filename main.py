@@ -23,3 +23,4 @@ async def recognize_cash(image: UploadFile = File(...)):
     label = predict_image(file_path)
 
     return label
+
