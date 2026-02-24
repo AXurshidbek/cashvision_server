@@ -4,3 +4,4 @@ onnxruntime
 Pillow
 gTTS
 opencv-python
+ultralytics
