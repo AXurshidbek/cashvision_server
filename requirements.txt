@@ -3,3 +3,4 @@ uvicorn
 onnxruntime
 Pillow
 gTTS
+opencv-python
